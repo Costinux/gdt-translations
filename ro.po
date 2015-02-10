@@ -4304,7 +4304,7 @@ msgid "Send feedback ..."
 msgstr ""
 
 msgid "Rate and Review"
-msgstr ""
+msgstr "Votează şi Împărtăşeşte-ţi opinia"
 
 msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
 msgstr ""
@@ -4319,7 +4319,7 @@ msgid "If you would've gladly paid a little more for the game or you just want t
 msgstr ""
 
 msgid "Thank you for playing!"
-msgstr ""
+msgstr "Vă mulţumim pentru că ne-aţi încercat jocul!"
 
 msgid "Current Game Statistics"
 msgstr ""
